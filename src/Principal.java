@@ -18,7 +18,6 @@ public class Principal {
         }
 
         RegistroServidor servidor = new RegistroServidor();
-        //Preenche o servidor com os dados lidos
 
         boolean flag;
 
